@@ -5,8 +5,39 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Titulo de primer nivel
+      h1 El consumidor digital
       
+    Separador
+    .row
+      .col-xl-12
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 1.1 Características del consumidor digital
+      
+    Separador
+    .row
+      .col-xl-12
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 1.2 Comportamiento del consumidor digital
+      
+    Separador
+    .row
+      .col-xl-12
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 1.3 El consumidor 4.0
+      
+    Separador
+    .row
+      .col-xl-12
+    #t_1_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 1.4 Tendencias del <em>marketing</em> 4.0
+      
+    Separador
+    .row
+      .col-xl-12
+    #t_1_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 1.5 Ecosistemas digitales para el <em>marketing</em>
+
+
 </template>
 
 <script>
