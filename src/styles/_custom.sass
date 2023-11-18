@@ -86,7 +86,7 @@
   background-color: #FFFBE5
 
 .cajon.color-primario
-  background-color: #EEFFDE  
+  background-color: #E3ECF7 
 
 .cajon-b:before 
   opacity: .95;
@@ -257,6 +257,15 @@
   background-image: url(../assets/curso/temas/tema1/img88.jpg) !important
 .fondo
   background-image: url(../assets/curso/temas/tema2/fondo.png) !important
+.fondo-2
+  /*background-image: url(../assets/curso/temas/tema1/fondo2.png) !important*/
+  background: linear-gradient(180deg, rgb(250, 250, 250) 0%, #F0F5FA 45%)
+
+.fondo-3
+  /*background-image: url(../assets/curso/temas/tema1/fondo2.png) !important*/
+  background: linear-gradient(180deg, #E3ECF7 0%, #E0FCFB 95%)
+  border-radius: 12px
+  
 .slyder-f__btn i
   color:#983333
 
@@ -281,6 +290,11 @@
     display: none
   .tituhoja
     height: 50px
+  .icono
+    max-width: 50px
+    margin-left: 224px
+    //margin-top: -18px
+    margin-bottom: -13px
 
 @media (max-width: 991px)
   .movil 
@@ -289,6 +303,11 @@
     display: none
   .tarjmovil
     height: 291px;
+  .icono
+    max-width: 50px
+    margin-left: 224px
+    margin-top: -18px
+    margin-bottom: -13px
   
 ///// Custom acordeon A tipo A -------------------------------------- 
 
@@ -308,7 +327,7 @@
   color: white
 
 .acordion__activo
-  background-color: #E4FDFB !important
+  background-color: #FFFBE5 !important
 
 ///////// Card hover --------------------------------------
 .crd_hover_txt
@@ -317,7 +336,7 @@
   overflow: hidden !important  
   &:hover    
     .crd_hover_txt--body   
-      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
       transform: translateY(0)
 
   .crd_hover_txt--body
@@ -327,7 +346,7 @@
     font-size: small
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
     transform: translateY(calc( 100% - 3.85rem ))
-    background-color: #DFFCFA 
+    background-color: #DFFCFA
   
 .crd_hover_txt--img 
   height: 360px;
@@ -337,10 +356,15 @@
       p
         font-size: 1em
 
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon:after
+  background-color: #144567
+
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon
+  background-color: #ffffff
+
 .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
   background-color: #752121
   color: white
-
 .colorcajon
   background-color: #E4FAFA
 .colorcol1
@@ -362,3 +386,5 @@
   background-color: #FFFFFF
 .colorcajon24
   background-color: #C8D8EF
+.colortabs
+  background-color: #FFFBE5
