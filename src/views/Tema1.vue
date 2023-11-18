@@ -664,7 +664,7 @@
       .tarjeta.colortarj-1.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img.mb-4(src='@/assets/curso/temas/tema1/img67.svg' alt='AvatarTop')
+            img.mb-4(src='@/assets/curso/temas/tema1/img74.svg' alt='AvatarTop')
           .col-12
             h4 #[i Gateway]
             p.text-center Son las plataformas que permiten a las organizaciones aceptar pagos realizados mediante tarjetas débito o crédito. 
@@ -673,7 +673,60 @@
         p Dentro de los ecosistemas digitales se encuentran los medios que emplean las organizaciones para implementar las estrategias de marketing digital, dentro de los cuales se encuentran los medios propios, medios pagados, y medios ganados. En el siguiente recurso se detallan los elementos de los medios propios.
     
     SlyderB.slyder-b-img.mb-5.p-5(:datos="datosSlyderEjemplo1")
-
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p La publicidad #[i display], por su parte, es una publicidad #[i online] en la cual las organizaciones crean estrategias publicitarias visibles en las plataformas digitales en forma de #[i banner], y que pueden estar compuestos por textos, imágenes, sonidos y videos. 
+        p En este entorno publicitario se encuentran los anunciantes que son las organizaciones, quienes emplean las páginas web u otros medios digitales, como también las plataformas de afiliados; las organizaciones incurren en costos por esta publicidad los cuales pueden ser por el número de veces que se muestre la publicidad, por las veces que se dé clic sobre los anuncios o por cada vez que el consumidor adquiera un producto o servicio.
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10.desktop(data-aos="flip-right")
+        figure  
+          img(src='@/assets/curso/temas/tema1/img74.svg', alt='Imagen decorativa')
+      .col-lg-10.movil(data-aos="flip-right")
+        figure  
+          img(src='@/assets/curso/temas/tema1/img74_1.svg', alt='Imagen decorativa')
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10
+        .cajon.colortarj-2.p-4.mb-4
+          p #[b Medios ganados:] son los que la organización ha ganado, gracia a su gestión y reputación de marca, gracias a las experiencias de los consumidores; los cuales son los resultados de las estrategias de marketing de medios propios y medios pagados; como las publicaciones de los consumidores, las menciones, revisiones (reviews), likes entre otros.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p Todas estas estrategias de marketing digital deben estar soportadas por una infraestructura tecnológica, la cual permite generar nuevos negocios, los cuales han llegado gracias a internet y evolución de las nuevas tecnologías. 
+        p La infraestructura tecnológica está compuesta por elementos como hardware, software, sistemas operativos, la red y almacenamiento de datos; los cuales en su interacción y funcionamiento permiten la generación de nuevos negocios online. 
+        p Dentro de la infraestructura tecnológica se encuentra la infraestructura tradicional, infraestructura de nube, e infraestructura hiperconvergente, así:
+        
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p La gestión de la infraestructura de las tecnologías permite organizar todos los recursos de los ecosistemas tecnológicos, mediante la gestión de los sistemas operativos, gestión de la nube, gestión de la virtualización, gestión de las interfaces de programación y gestión de riesgos.
+     
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema1/img75.svg' alt='AvatarTop')
+          .tarjeta.colorcol1.w-100
+            .p-4
+              h3.text-center Infraestructura tradicional 
+              p Las organizaciones adquieren los elementos de la infraestructura tecnológica como hardware, software, sistemas operativos y almacenamiento de datos, los cuales son gestionados por la organización en sus instalaciones.
+      .col-lg-4
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema1/img76.svg' alt='AvatarTop')
+          .tarjeta.colorcol1.w-100
+            .p-4
+              h3.text-center Infraestructura de nube
+              p Son infraestructuras tecnológicas, #[i cloud computing]; lo que se conoce como la nube, las organizaciones las pueden tener de forma privada o pueden acceder a la nube publica alquilando la infraestructura tecnológica a través de un proveedor. 
+      .col-lg-4
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/tema1/img77.svg' alt='AvatarTop')
+          .tarjeta.colorcol1.w-100
+            .p-4
+              h3.text-center Infraestructura hiperconvergente
+              p Es la infraestructura que permite la gestión de datos a través de la red y el almacenamiento de datos, desde un único servidor.
+              br
+              br
+              br
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-12
+        p La gestión de la infraestructura de las tecnologías permite organizar todos los recursos de los ecosistemas tecnológicos, mediante la gestión de los sistemas operativos, gestión de la nube, gestión de la virtualización, gestión de las interfaces de programación y gestión de riesgos.
 </template>
 
 <script>
@@ -686,43 +739,36 @@ export default {
       {
         titulo: 'Medios propios',
         texto:
-          'Son los medios digitales propiedad de la organización, hacen parte de ellos las plataformas digitales y los canales de comunicación, implementados como estrategia de marketing digital que permiten acceder a los consumidores digitales.',
+          'Son los medios digitales propiedad de la organización, hacen parte de ellos las plataformas digitales y los canales de comunicación, implementados como estrategia de <em>marketing</em> digital que permiten acceder a los consumidores digitales.',
         imagen: require('@/assets/curso/temas/tema1/img68.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Medios propios',
+        titulo: 'Objetivo',
         texto:
-          'Son los medios digitales propiedad de la organización, hacen parte de ellos las plataformas digitales y los canales de comunicación, implementados como estrategia de marketing digital que permiten acceder a los consumidores digitales.',
-        imagen: require('@/assets/curso/temas/tema1/img68.jpg'),
+          'Crear interacción con los consumidores y poder influir en sus decisiones de compra, aportan conocimiento de la marca; dentro de los medios propios se encuentran <em>websites</em> corporativa, aplicaciones móviles, blog.',
+        imagen: require('@/assets/curso/temas/tema1/img69.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Medios propios',
+        titulo: '<em>Branding</em>',
         texto:
-          'Son los medios digitales propiedad de la organización, hacen parte de ellos las plataformas digitales y los canales de comunicación, implementados como estrategia de marketing digital que permiten acceder a los consumidores digitales.',
-        imagen: require('@/assets/curso/temas/tema1/img68.jpg'),
+          'Son todas las estrategias de <em>marketing</em> que emplea la organización, para gestionar y dar a conocer su marca, con la finalidad de influenciar en los consumidores. Dentro de los tipos de branding se encuentran el corporativo, personal y un último, que es el <em>employer branding</em>, donde el empleado es un promotor de la marca.',
+        imagen: require('@/assets/curso/temas/tema1/img70.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Medios propios',
+        titulo: '<em>Search Marketing</em>',
         texto:
-          'Son los medios digitales propiedad de la organización, hacen parte de ellos las plataformas digitales y los canales de comunicación, implementados como estrategia de marketing digital que permiten acceder a los consumidores digitales.',
-        imagen: require('@/assets/curso/temas/tema1/img68.jpg'),
+          'Es otra de las estrategias de medios propios, debido a que las organizaciones, se encargar de realizar gestiones en sitios Web, con la finalidad de ser visibles en los principales buscadores, mediante estrategias como SEO (<em>Search Engine Optimization</em>) o SEM (<em>Search Engine Marketing</em>). Generando valor de marca, ser visibles en las plataformas digitales y ante los consumidores, generación de ventas y obtención de reputación.',
+        imagen: require('@/assets/curso/temas/tema1/img71.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Medios propios',
+        titulo: 'Medios pagados',
         texto:
-          'Son los medios digitales propiedad de la organización, hacen parte de ellos las plataformas digitales y los canales de comunicación, implementados como estrategia de marketing digital que permiten acceder a los consumidores digitales.',
-        imagen: require('@/assets/curso/temas/tema1/img68.jpg'),
-        // leyendaImagen: 'Leyenda de la imagen',
-      },
-      {
-        titulo: 'Medios propios',
-        texto:
-          'Son los medios digitales propiedad de la organización, hacen parte de ellos las plataformas digitales y los canales de comunicación, implementados como estrategia de marketing digital que permiten acceder a los consumidores digitales.',
-        imagen: require('@/assets/curso/temas/tema1/img68.jpg'),
+          'Son las estrategias de <em>marketing</em> en las que las organizaciones realizan pagos a terceros para que sus productos o servicios sean publicitados por ellos y así generar valor para la marca. ',
+        imagen: require('@/assets/curso/temas/tema1/img72.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
     ],
