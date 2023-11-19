@@ -11,12 +11,12 @@
         .col-lg-4(data-aos="flip-right")
           figure  
             img(src='@/assets/curso/temas/tema1/img1.svg', alt='Imagen decorativa')
-        .col-lg-8(data-aos="zoom-in-right")
+        .col-lg-8(data-aos="flip-right")
           p En la actualidad, el entorno global se encuentra inmerso en una era tecnológica de la cual se habla como la era de la tecnología 5.0; y todos los cambios y evolución que ella trae al entorno, la industria y producción, a la fuerza laboral y la promoción de las nuevas tendencias de consumo.
           p Antes de abordar quién es el consumidor digital y quiénes los componen, se debe abordar el concepto de consumidor que define como las personas o instituciones que adquieren bienes y servicios para su consumo con la finalidad de satisfacer una necesidad, el cual también puede ser denominado comprador o usuario.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12(data-aos="zoom-in-right")
+      .col-lg-12(data-aos="flip-right")
         p Con la evolución que ha vivido la humanidad y los cambios tecnológicos, las organizaciones han creado nuevas estrategias de mercado que han llevado a que los consumidores cambien los canales o medios por los cuales adquieren los bienes y servicios para satisfacer sus necesidades. 
     
     .row.justify-content-center.align-items-center.mb-5
@@ -27,17 +27,17 @@
         figure  
           img(src='@/assets/curso/temas/tema1/img2_1.svg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12(data-aos="zoom-in-right")
+      .col-lg-12(data-aos="flip-right")
         p Para entender cómo se ha evolucionado en estos nuevos hábitos de consumo y en estos nuevos perfiles de consumidores, es necesario dar una mirada a la evolución de las generaciones, en el siguiente slider se detallan las características especiales de cada una de las generaciones activas a la fecha.
     
-    SlyderB.slyder-b-img.mb-5.p-5(:datos="datosSlyderEjemplo")
+    SlyderB.slyder-b-img.mb-5.p-5(:datos="datosSlyderEjemplo")(data-aos="zoom-in-up")
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Caracterizar cada una de estas generaciones permite a las organizaciones establecer mejoras en las políticas de estrategia de marketing, debido a que cada persona tiene unas características definidas, principalmente en los medios de comunicación; lo que permitirá que se ofrezca productos y servicio al cliente personalizado para fidelizarlo.
         p Con los nuevos cambios tecnológicos, se puede decir que se encuentran consumidores digitales en cada una de las generaciones, sin embargo existen generaciones más inmersas, donde se puede decir viven en un mundo de virtualidad.
         p Estos cambios de consumo también se han dado a la gran exposición que tienen las personas, a los medios de comunicación y en especial al internet, mediante los computadores y dispositivos móviles; cada día reciben mayor información y exposición a publicidad y tendencias, que genera mayores hábitos de consumo debido a la hiperconectividad. 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="zoom-in-up")
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img9.jpg')})`}"
       )
@@ -50,12 +50,12 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.1 Características del consumidor digital
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p La nueva era digital o la llamada industria 4.0, ha generado evoluciones y cambios en el consumo de productos y servicios; por lo cual hoy se habla de consumidor digital, característico de la sociedad moderna; quienes tienen unas nuevas exigencias y expectativas de consumo. Estos nuevos consumidores o nueva tendencia de consumo a través de los medios digitales, tienen unas características marcadas y definidas, que motivan al consumidor a adquirir productos o servicios, o bien son influyentes a la hora de tomar decisiones de consumo.
         p A continuación, se realiza un análisis detallado de las características de los consumidores digitales y cómo las organizaciones deben de internalizarlas y de esta forma, crear planes y estrategias de #[i marketing].
     
     .tarjeta.tarjeta--azul.slyder-b-img.p-4
-      SlyderA(tipo="b")
+      SlyderA(tipo="b")(data-aos="zoom-in-up")
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Compradores digitales
@@ -112,8 +112,8 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img17.jpg', alt='Imagen decorativa')        
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+    .row.justify-content-center.align-items-center.mb-5.mt-5
+      .col-lg-12(data-aos="flip-right")
         p Las organizaciones deben tener en cuenta las características de los consumidores digitales, por lo cual realizar una segmentación adecuada les permite realizar una distribución homogénea de su nicho de mercado; lo cual le permitirá diseñar estrategias de #[i marketing] digitales adecuadas al tipo de cliente que desee para su organización. 
     Separador
     .row
@@ -121,7 +121,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.2 Comportamiento del consumidor digital
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p El comportamiento del ser humano, se encuentra influenciado por aspectos físicos y psicológicos, pero también está influenciado por elementos de su entorno, familiares, sociales y culturales; por lo cual los cambios tecnológicos, han traído grandes cambios en el comportamiento del ser humano; entre ellos cambios en los hábitos de consumo. 
         p La hiperconectividad de las personas ha permitido que estén informadas y en constante intercambio de comunicación con otras personas o con las organizaciones; y también el constante cambio de tendencia obliga a las organizaciones a estar en permanente evolución para mantenerse a la vanguardia.
         p Los estudios y la psicología han identificado cuatro perfiles del comportamiento del consumidor digital; a continuación se detallan a través de las siguientes tarjetas las características de cada uno.
@@ -192,15 +192,15 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.3 El consumidor 4.0
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p El ser humano ha tenido cambios evolutivos, entre ellos se ha visualizado los cambios en los hábitos y tendencias de consumo, por lo cual se analizará cada una de las evoluciones que ha tenido el ser humano y las organizaciones, desde el consumidor 1.0 al consumidor 4.0. 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p.text-center La evolución de los consumidores
     .row.justify-content-center.align-items-center.mb-5.fondo-2
       .col-lg-12
         .row.justify-content-center.align-items-center
-          .col-lg-10
+          .col-lg-10(data-aos="flip-right")
             hr
             .row.justify-content-center.align-items-center
               .col-6.col-lg-1
@@ -240,24 +240,24 @@
                 p Lo influenciaron los #[i millennials].
             hr
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Los consumidores 4.0, son los consumidores actuales que surgen a partir de la evolución que ha vivido la humanidad debido a los cambios tecnológicos, al estar los consumidores conectados constantemente a un dispositivo móvil, a los computadores, #[i tablet] y otros dispositivos, están en constante consumo de información y publicidad de diferente productos y servicios.
         p Sin embargo, antes de crear estrategias de #[i marketing] que permitan atraer a clientes potenciales, se deben identificar sus necesidades y cómo los productos o servicios que ofrece la organización pueden satisfacer sus necesidades y cumplir sus expectativas, por lo cual es necesario, tener una comunicación activa con el consumidor, así como realizar una investigación de mercado.
         p Para atraer al consumidor 4.0 se debe emplear algunas estrategias como:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.desktop
+      .col-lg-10.desktop(data-aos="zoom-in-up")
         figure
           img(src='@/assets/curso/temas/tema1/img30.svg', alt='Imagen decorativa')
-      .col-lg-10.movil
+      .col-lg-10.movil(data-aos="zoom-in-up")
         figure
           img(src='@/assets/curso/temas/tema1/img30_1.svg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Una de las estrategias de #[i marketing] digitales es buscar fortalecer los sentimientos de la comunidad, mediante el #[i marketing] emocional, el cual busca crear un sentimiento en los consumidores o leads; si bien las compras online han facilitado la vida de los consumidores; se ha perdido el contacto físico con las organizaciones; por lo cual una de las estrategias del marketing emocional, es mantener la conexión con los consumidores a lo largo del tiempo, mediante las emociones.
-    .cajon.color-primario.p-4.mb-4
+    .cajon.color-primario.p-4.mb-4(data-aos="flip-right")
       p Algunos de los beneficios del #[i marketing] donde se busca transmitir o generar emociones a los consumidores, es la recordación de marca, impulsar el consumo de la marca, comparten y comentan positivamente sobre su experiencia y crea conexión con los leads, por lo cual se fidelizan
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Para medir el éxito de las estrategias de #[i marketing] en el consumidor digital, se deben tener en cuenta los activos digitales, como la marca, los #[i e-commerce], los puntos de venta, los B2B y los influenciadores. Para tener mayor claridad sobre cada uno de los conceptos, el siguiente recurso define estas herramientas así:
     
     .row.justify-content-center.mb-5
@@ -306,7 +306,7 @@
       .col-lg-10
         p Al analizar las métricas de los activos digitales se deben tener en cuenta las métricas para las campañas de #[i marketing] digital las cuales son: 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3
+      .col-lg-3(data-aos="flip-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img35.svg' alt='AvatarTop')
           .tarjeta.colorcol1.w-100
@@ -315,7 +315,7 @@
               p En esta métrica se busca medir la efectividad de la campaña de acuerdo a la inversión y esfuerzos realizados por las organizaciones, con el número de consumidores que se ha logrado fidelizar.
               br
               br
-      .col-lg-3
+      .col-lg-3(data-aos="flip-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img36.svg' alt='AvatarTop')
           .tarjeta.colorcol1.w-100
@@ -326,7 +326,7 @@
               br
               br
               
-      .col-lg-3
+      .col-lg-3(data-aos="flip-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img37.svg' alt='AvatarTop')
           .tarjeta.colorcol1.w-100
@@ -338,7 +338,7 @@
               br
               br
               p
-      .col-lg-3
+      .col-lg-3(data-aos="flip-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img38.svg' alt='AvatarTop')
           .tarjeta.colorcol1.w-100
@@ -346,16 +346,10 @@
               h3.text-center Métrica digital
               p Mide la interacción de los consumidores, respecto a una marca en los medios digitales; se mide el número de productos o servicios que es adquirido #[i online], cuántos suscriptores o seguidores tiene la marca, las búsqueda realizadas de la marca en la web.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Las organizaciones deben crear indicadores de medición de éxito, de acuerdo con sus necesidades, que permitan identificar el éxito de sus campañas de marketing digital o crear nuevas estrategias que le permitan llegar a los leads o clientes potenciales, configurando ventas efectivas y fidelización del consumidor.
         p Existen algunas métricas que permiten medir los resultados de las campañas publicitarias:
     
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
-        .titulo-sexto.color-acento-contenido.offset-0
-          h5 Tabla 1.
-          span  #[i  FALTA EL NOMBRE DE LA TABLA]
-
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-left")
         .tabla-b.color-acento-botones.mb-5        
@@ -395,7 +389,7 @@
               td Los números de clics que interactúan con la campaña publicitaria.
               td Clics / Impresiones totales = Tasa clics.  
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Con el fin de consolidar el concepto sobre métricas, en el siguiente video se consolida el concepto y los diferentes indicadores acorde a la red consultada así:
     
     .row.justify-content-center.align-items-center.md-5   
@@ -409,12 +403,12 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.4 Tendencias del <em>marketing</em> 4.0
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Las organizaciones a través de los procesos de mejora continua al interior de las organizaciones y con el fin de satisfacer y fidelizar, al cliente, crean estrategias que permitan crear procesos de ventas eficientes y eficaces; pero estas estrategias no se enfocan solo en la venta como tal, también se crean estrategias o técnicas al interior de las organizaciones o en sus procesos productivas, que permitan atraer y fidelizar a los clientes. 
         p Las organizaciones deben estudiar las necesidades de sus clientes actuales o sus clientes potenciales, y a partir de estas necesidades, implementar estrategias que permitan llegar a estos clientes, satisfacer sus necesidades y lograr una fidelización. 
         p Es común pensar que el #[i marketing] se trata de la publicidad, pero este tan solo es una de las estrategias para llegar a los clientes; al estudiar las necesidades de los clientes, se comprende de una forma adecuada, cuáles son las estrategias que se deben tomar que  van desde la creación de un producto y servicio requerido por ellos, eficiencia y eficacia en la producción, la logística, los canales de distribución, el servicio de venta y posventa. 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
             :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img39.jpg')})`}"
@@ -425,44 +419,44 @@
         p En cuanto a los principales objetivos del marketing se encuentran: 
     
     .tarjeta--container.row.mb-5
-      .col-md.colorcol1.p-5
+      .col-md.colorcol1.p-5(data-aos="flip-left")
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema1/img40.svg', alt='Imagen decorativa')        
         p.text-center Aumento de las ventas en las organizaciones.
-      .col-md.colortarj-2.p-5
+      .col-md.colortarj-2.p-5(data-aos="flip-left")
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema1/img41.svg', alt='Imagen decorativa')        
         p.text-center Atraer nuevos clientes y lograr su fidelización.
-      .col-md.colorcol1.p-5
+      .col-md.colorcol1.p-5(data-aos="flip-left")
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema1/img42.svg', alt='Imagen decorativa')        
         p.text-center Creación de valor y comunicación de marca.
-      .col-md.colortarj-2.p-5
+      .col-md.colortarj-2.p-5(data-aos="flip-left")
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema1/img43.svg', alt='Imagen decorativa')        
         p.text-center Imagen corporativa favorable.
-      .col-md.colorcol1.p-5
+      .col-md.colorcol1.p-5(data-aos="flip-left")
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema1/img44.svg', alt='Imagen decorativa')        
         p.text-center Posicionamiento de marca.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Al iniciar los estudios de las necesidades de las personas y sus deseos a satisfacer, se debe realizar la segmentación del mercado e identificar el nicho de mercado.
         p La segmentación del mercado, permite agrupar los clientes potenciales en grupos de acuerdo a su ubicación geográfica, a la demografía (edad, sexo), por grupo socioeconómico (nivel de ingresos), según las características psicológicas, y comportamentales (beneficio del comprador, intención de compra); por su parte, el nicho de mercado se encuentra inmerso en cada segmento del mercado, mediante grupos más reducidos.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-7
+          .col-lg-7(data-aos="flip-right")
             p En cuanto a la historia y evolución del #[i marketing], el profesor E. D. Jones, en el año 1902 habla por primera vez del término #[i marketing] en la universidad de Michigan, también en el año 1922 Fred E. Clarck, el presidente de la #[i American Marketing Association] (A.M.A.), escribe sobre los principios del #[i marketing], por lo cual es considerado como uno de los padres del #[i marketing]. 
             p Por su parte el docente universitario Phili Kother, es considerado el padre del #[i marketing] moderno, debido a sus aportes al #[i marketing] y al ser reconocido por su asesoría en empresas como IBM y #[i Bank of America]. Con Phili Kother las empresas empiezan a hablar de las 4 P del #[i marketing] (Producto, Precio, Plaza y promoción).
 
@@ -470,10 +464,10 @@
             figure
               img(src='@/assets/curso/temas/tema1/img45.svg', alt='Imagen decorativa') 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p El #[i marketing], a través de la historia, ha pasado por cuatro etapas o fases, las cuales han evolucionado de acuerdo con los cambios de las necesidades de las personas, los medios de producción y las nuevas tecnologías de las comunicaciones y la información.
     
-    TabsC.color-primario.mb-5
+    TabsC.color-primario.mb-5(data-aos="flip-left")
       .py-3.colortabs.py-md-4(titulo="Marketing 1.0")
         .row
           .col-md-6
@@ -510,7 +504,7 @@
             p En esta época el comercio electrónico se encuentra en auge, por lo cual se crea la necesidad de implementar las estrategias de marketing tradicional a lo digital. 
             p Las empresas empiezan a implementar la Big Data y la minería de datos para estudiar el comportamiento de las personas.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Debido a los cambios de hábitos de consumo, que se dan con la llegada de la tecnología, el #[i marketing] tradicional, se ha tenido que reinventar, por lo cual llega una nueva evolución del #[i marketing] el cual es el #[i marketing] 4.0 que  debe ir apoyado de las nuevas tecnologías y modelos de comunicación modernos. 
         p Por lo cual el #[i marketing] 4.0 es una nueva estrategia que deben de implementar las organizaciones, para llegar a los consumidores actuales o consumidores 4.0, el cual permita implementar métricas que analizan la efectividad de las campañas. 
         p El objetivo principal del #[i marketing] 4.0 es la búsqueda de la fidelización de los leads, a través de la implementación del #[i marketing] tradicional y el #[i marketing] digital; las principales estrategias y campañas son implementadas mediante las redes sociales, sitios web, tiendas virtuales y buscadores.
@@ -524,7 +518,7 @@
         figure  
           img(src='@/assets/curso/temas/tema1/img50_1.svg', alt='Imagen decorativa')        
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p La implementación del marketing 4.0, es de gran importancia para las organizaciones, debido a que se crea posicionamiento de marca en los medios digitales y los mensajes publicitarios llegan a los consumidores, desde cualquier medio digital, a los dispositivos en los cuales se encuentre conectado; y genera una imagen positiva de la organización y la marca. 
         p Algunas de las tendencias del marketing 4.0 son: 
     .row.justify-content-center.align-items-center.mb-5
@@ -540,12 +534,12 @@
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2.my-5 1.5 Ecosistemas digitales para el <em>marketing</em>
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p El mundo digital se asemeja a un ecosistema natural, debido a que se requiere la interacción de diferentes elementos, para su correcto funcionamiento; por lo cual un ecosistema digital permite el tráfico de datos e información, en el cual se pueden realizar visitas, conseguir leads, ofrecer productos y servicios, y generar ventas online. 
         p Estos ecosistemas digitales han permitido que las organizaciones migren a un mundo virtual, en el cual se permite la interacción de los consumidores y las organizaciones, de forma online; logrando la fidelización de los consumidores digitales y generando valor para la marca, debido a que permiten su visibilidad. Al implementar un ecosistema digital, las organizaciones deben implementar estrategias que creen valor. 
         p Algunos de los elementos de un ecosistema digital se describen así: 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-left")
         .cajon.colortabs.p-4.mb-4
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-4
@@ -575,61 +569,61 @@
                   span(style="color:#000000") 5
                 | Métrica o análisis de la web. 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Con la implementación de los ecosistemas digitales, las organizaciones deben optimizar los recursos digitales, debido a que permiten que las estrategias y elementos del ecosistema sean eficientes y estén acorde a la organización, la marca y la creación de valor.
         p Las siguientes son las estrategias para optimizar los recursos de un ecosistema digital.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.fondo-3.p-5
+      .col-lg-10.fondo-3.p-5(data-aos="flip-left")
         LineaTiempoB.color-secundario.mb-5(:datos="datosLineaTiempoB")
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-up")
         p Un parámetro es empleado por los programadores o los sistemas operativos; para dar valor a un comando, el cual al recibir una información, realiza un procedimiento determinado; como al generar una búsqueda en Google, al introducir el nombre de una marca; esta debió parametrizar o adquirir unos servicios para que aparezca dentro de las primeras páginas o sitios web, lo cual se logra con estrategias de SEO (#[i earch Engine Optimization]) y SEM (#[i Search Engine Marketing]).
         p Por ejemplo, al buscar la marca de zapatos “Vélez” en el buscador de Google, esta aparece como el primer sitio web, y si se observa fue parametrizada como una página de Anuncio. 
         p Parametrización “Vélez”:
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-up")
         figure  
           img(src='@/assets/curso/temas/tema1/img57.jpg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Sin embargo, a introducir en el motor de búsqueda de Google la palabra “zapatos” se encuentra la empresa “Dafitti”.
         p Parametrización “Zapatos”.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="zoom-in-up")
         figure  
           img(src='@/assets/curso/temas/tema1/img58.jpg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p La parametrización, permite realizar una medición por lo cual, se emplean sitios que permitan realizar analítica como Google Analytics y Adobe Analytics.
         p Con la parametrización de campañas de marketing digital se encuentran algunos elementos clave que se deben identificar y que  se ejemplifican con los siguientes pasos.
     
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Página web")
-        .col-md-6.mb-4.mb-md-0.p-4
+        .col-md-6.mb-4.mb-md-0.p-4(data-aos="zoom-in-up")
           p Al realizar la búsqueda de la página web de Vélez se encuentra la siguiente URL https://www.velez.com.co/?gclid=Cj0KCQjwl92XBhC7ARIsAHLl9alIsB_XUYK23Q1hzN4vHIL965lGBabfEgsfY4VPz4-y7m0MA4a0YekaAvjEEALw_wcB, la cual tiene la siguiente estructura.
         .col-md-6
           figure
             img(src='@/assets/curso/temas/tema1/img59.jpg', alt='Imagen decorativa')
       .row(titulo="Dominio")
-        .col-md-6.mb-4.mb-md-0.p-4
+        .col-md-6.mb-4.mb-md-0.p-4(data-aos="zoom-in-up")
           p El cual se asemeja a una dirección o código postal; el cual no se encuentra físico, este se encuentra alojado en la web, el dominio principal de la marca Vélez es https://www.velez.com.co
         .col-md-6
           figure
             img(src='@/assets/curso/temas/tema1/img60.jpg', alt='Imagen decorativa')
       .row(titulo="Separador de dominio")
-        .col-md-6.mb-4.mb-md-0.p-4
+        .col-md-6.mb-4.mb-md-0.p-4(data-aos="zoom-in-up")
           p Es el comando encargado de separar los parámetros del dominio principal; principalmente se identifica por estar representado por el signo de interrogación (?); el separador de parámetro para la marca Vélez se encuentra terminado el dominio principal, como se observa en la URL “?gclid=Cj0KCQjwl92XBhC7ARIsAHLl9alIsB_XUYK23Q1hzN4vHIL965lGBabfEgsfY4VPz4-y7m0MA4a0YekaAvjEEALw_wcB
         .col-md-6
           figure
             img(src='@/assets/curso/temas/tema1/img61.jpg', alt='Imagen decorativa')
       .row(titulo="Parámetro detector")
-        .col-md-6.mb-4.mb-md-0.p-4
+        .col-md-6.mb-4.mb-md-0.p-4(data-aos="zoom-in-up")
           p Es el que permite realizar análisis de tráfico de los sitios Web, debido a que es único en cada URL, el parámetro detector de la marca Vélez se encuentra seguido del separador de dominio. “gclid=Cj0KCQjwl92XBhC7ARIsAHLl9alIsB_XUYK23Q1hzN4vHIL965lGBabfEgsfY4VPz4-y7m0MA4a0YekaAvjEEALw_wcB”
         .col-md-6
           figure
             img(src='@/assets/curso/temas/tema1/img62.jpg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Los medios de pago son otra herramienta que hacen parte de los ecosistemas digitales, los cuales nacen como una necesidad, para realizar transacciones en el comercio electrónico; por lo cual surgen los métodos de pagos digitales. Dentro de este ecosistema de pago se deben identificar los actores que lo involucran, tal como se detalla en las siguientes tarjetas.
     
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="flip-right")
@@ -669,12 +663,12 @@
             h4 #[i Gateway]
             p.text-center Son las plataformas que permiten a las organizaciones aceptar pagos realizados mediante tarjetas débito o crédito. 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Dentro de los ecosistemas digitales se encuentran los medios que emplean las organizaciones para implementar las estrategias de marketing digital, dentro de los cuales se encuentran los medios propios, medios pagados, y medios ganados. En el siguiente recurso se detallan los elementos de los medios propios.
     
-    SlyderB.slyder-b-img.mb-5.p-5(:datos="datosSlyderEjemplo1")
+    SlyderB.slyder-b-img.mb-5.p-5(:datos="datosSlyderEjemplo1")(data-aos="zoom-in-up")
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p La publicidad #[i display], por su parte, es una publicidad #[i online] en la cual las organizaciones crean estrategias publicitarias visibles en las plataformas digitales en forma de #[i banner], y que pueden estar compuestos por textos, imágenes, sonidos y videos. 
         p En este entorno publicitario se encuentran los anunciantes que son las organizaciones, quienes emplean las páginas web u otros medios digitales, como también las plataformas de afiliados; las organizaciones incurren en costos por esta publicidad los cuales pueden ser por el número de veces que se muestre la publicidad, por las veces que se dé clic sobre los anuncios o por cada vez que el consumidor adquiera un producto o servicio.
     
@@ -690,31 +684,31 @@
         .cajon.colortarj-2.p-4.mb-4
           p #[b Medios ganados:] son los que la organización ha ganado, gracia a su gestión y reputación de marca, gracias a las experiencias de los consumidores; los cuales son los resultados de las estrategias de marketing de medios propios y medios pagados; como las publicaciones de los consumidores, las menciones, revisiones (reviews), likes entre otros.
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p Todas estas estrategias de marketing digital deben estar soportadas por una infraestructura tecnológica, la cual permite generar nuevos negocios, los cuales han llegado gracias a internet y evolución de las nuevas tecnologías. 
         p La infraestructura tecnológica está compuesta por elementos como hardware, software, sistemas operativos, la red y almacenamiento de datos; los cuales en su interacción y funcionamiento permiten la generación de nuevos negocios online. 
         p Dentro de la infraestructura tecnológica se encuentra la infraestructura tradicional, infraestructura de nube, e infraestructura hiperconvergente, así:
         
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p La gestión de la infraestructura de las tecnologías permite organizar todos los recursos de los ecosistemas tecnológicos, mediante la gestión de los sistemas operativos, gestión de la nube, gestión de la virtualización, gestión de las interfaces de programación y gestión de riesgos.
      
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos="zoom-in-up")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img75.svg' alt='AvatarTop')
           .tarjeta.colorcol1.w-100
             .p-4
               h3.text-center Infraestructura tradicional 
               p Las organizaciones adquieren los elementos de la infraestructura tecnológica como hardware, software, sistemas operativos y almacenamiento de datos, los cuales son gestionados por la organización en sus instalaciones.
-      .col-lg-4
+      .col-lg-4(data-aos="zoom-in-up")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img76.svg' alt='AvatarTop')
           .tarjeta.colorcol1.w-100
             .p-4
               h3.text-center Infraestructura de nube
               p Son infraestructuras tecnológicas, #[i cloud computing]; lo que se conoce como la nube, las organizaciones las pueden tener de forma privada o pueden acceder a la nube publica alquilando la infraestructura tecnológica a través de un proveedor. 
-      .col-lg-4
+      .col-lg-4(data-aos="zoom-in-up")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/img77.svg' alt='AvatarTop')
           .tarjeta.colorcol1.w-100
@@ -725,7 +719,7 @@
               br
               br
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12(data-aos="flip-right")
         p La gestión de la infraestructura de las tecnologías permite organizar todos los recursos de los ecosistemas tecnológicos, mediante la gestión de los sistemas operativos, gestión de la nube, gestión de la virtualización, gestión de las interfaces de programación y gestión de riesgos.
 </template>
 
