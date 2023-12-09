@@ -181,8 +181,7 @@ export default {
       referencia:
         'Ecosistema de Recursos Educativos Digitales SENA. (s.f.). <em>Redes sociales</em>. [Video]. YouTube.',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=2HhXvGP0uU8&list=PLdgsC6jI-tmV2RKgTC848jJlOqJWe5e4D',
+      link: 'https://www.youtube.com/watch?v=rR5wqTUDRI4',
     },
     {
       tema: 'Conceptos Básicos Sobre <em>Marketing Digital</em> - SENA',
@@ -222,7 +221,7 @@ export default {
     },
     {
       termino: 'Sitio web',
-      significado: 'conjunto de páginas web. ',
+      significado: 'conjunto de páginas <em>web</em>. ',
     },
   ],
   referencias: [

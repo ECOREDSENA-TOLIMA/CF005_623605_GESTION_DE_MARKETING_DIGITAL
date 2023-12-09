@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p 
+    p El componente el consumidor digital y modelos de negocio aborda de manera integral los aspectos claves relacionados con el consumidor en el entorno digital y las estrategias de #[i marketing]. En la primera sección, se exploran las características y el comportamiento del consumidor digital, así como la evolución hacia el consumidor 4.0 y las tendencias del #[i marketing] 4.0. La segunda sección se centra en las plataformas digitales utilizadas para el #[i marketing], incluyendo tiendas virtuales, redes sociales, sitios web, publicidad online, video #[i marketing], pódcast, apps, #[i blogs], bases de datos y licencias
     p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
 
     .row.justify-content-center
