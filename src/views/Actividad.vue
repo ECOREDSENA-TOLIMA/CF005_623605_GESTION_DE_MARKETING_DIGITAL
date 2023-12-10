@@ -10,8 +10,8 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Profundizando en el #[i marketing] digital y nuevos modelos de negocios
-        p.mb-4 #[b Objetivo:] identificar conocimientos del consumidor financiero, del marketing digital y de los nuevos modelos de negocio.
+          h2 Profundizando en el consumidor digital y nuevos modelos de negocios
+        p.mb-4 #[b Objetivo:] identificar conocimientos del consumidor digital, del #[i marketing] digital y de los nuevos modelos de negocio.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
