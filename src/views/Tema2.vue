@@ -345,8 +345,8 @@
     .row.justify-content-center.align-items-center.md-5   
       .col-lg-12(data-aos="fade-left")     
         figure
-          .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/0BtgGxmwK-Y" title="Tráfico web" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)  
     
     Separador
     .row
@@ -671,8 +671,8 @@
     .row.justify-content-center.align-items-center.md-5.mb-5
       .col-lg-12(data-aos="fade-left")     
         figure
-          .video          
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)    
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/qKzm31qDDWg" title="Categorías de base de datos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
         p Estas bases de datos se pueden ubicar en medio local o en la nube; en las bases de datos locales se emplean redes locales (LAN) y es gestionada por la organización; en cuanto a su ubicación en la nube se realiza contratación con proveedores quienes se encargan de realizar el almacenamiento de los datos, a través del internet.
