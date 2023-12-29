@@ -35,7 +35,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
         p Caracterizar cada una de estas generaciones permite a las organizaciones establecer mejoras en las políticas de estrategia de #[i marketing], debido a que cada persona tiene unas características definidas, principalmente en los medios de comunicación; lo que permitirá que se ofrezca productos y servicio al cliente personalizado para fidelizarlo.
-        p Con los nuevos cambios tecnológicos, se puede decir que se encuentran consumidores digitales en cada una de las generaciones, sin embargo existen generaciones más inmersas, donde se puede decir que viven en un mundo de virtualidad.
+        p Con los nuevos cambios tecnológicos, se puede decir que se encuentran consumidores digitales en cada una de las generaciones, sin embargo, existen generaciones más inmersas, donde se puede decir que viven en un mundo de virtualidad.
         p Estos cambios de consumo también se han dado a la gran exposición que tienen las personas, a los medios de comunicación y en especial al internet, mediante los computadores y dispositivos móviles; cada día reciben mayor información y exposición a publicidad y tendencias, que genera mayores hábitos de consumo debido a la hiperconectividad. 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="zoom-in-up")
       .bloque-texto-g__img(
@@ -114,7 +114,7 @@
               img(src='@/assets/curso/temas/tema1/img17.jpg', alt='Imagen decorativa')        
     .row.justify-content-center.align-items-center.mb-5.mt-5
       .col-lg-12(data-aos="flip-right")
-        p Las organizaciones deben tener en cuenta las características de los consumidores digitales, realizar una segmentación adecuada les permite efectuar una distribución homogénea de su nicho de mercado; esto le facilitara diseñar estrategias de #[i marketing] digitales adecuadas al tipo de cliente que desee para su organización. 
+        p Las organizaciones deben tener en cuenta las características de los consumidores digitales, realizar una segmentación adecuada, les permite efectuar una distribución homogénea de su nicho de mercado; esto le facilitará diseñar estrategias de #[i marketing] digitales adecuadas al tipo de cliente que desee para su organización. 
     Separador
     .row
       .col-xl-12
@@ -133,7 +133,7 @@
             img.mb-4(src='@/assets/curso/temas/tema1/img18.svg' alt='AvatarTop')
           .col-12
             h4.text-center Predictor
-            p.text-center Es el consumidor que buscar seguridad al momento de realizar las compras de productos o servicios, este consumidor desea que todo el proceso ocurra con normalidad, por lo que las organizaciones deben de brindarle una estabilidad; son los compradores que adquieren subscripciones y, realizan reservas.
+            p.text-center Es el consumidor que busca seguridad al momento de realizar las compras de productos o servicios, este consumidor desea que todo el proceso ocurra con normalidad, por lo que las organizaciones deben de brindarle una estabilidad; son los compradores que adquieren subscripciones y, realizan reservas.
       .tarjeta.colortarj-2.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -236,13 +236,13 @@
                   img(src='@/assets/curso/temas/tema1/img29.svg', alt='Imagen decorativa')
               .col-lg-11            
                 p Consumidor 4.0 
-                p Este consumidor es más depediente de los medios digitales para adquirir productos o servicios, las empresas u organizaciones, han empezado a desarrollar nuevas estrategias de #[i marketing] orientadas a estos nuevos consumidores, los cuales se pueden denominar consumidores actuales. 
+                p Este consumidor es más dependiente de los medios digitales para adquirir productos o servicios, las empresas u organizaciones, han empezado a desarrollar nuevas estrategias de #[i marketing] orientadas a estos nuevos consumidores, los cuales se pueden denominar consumidores actuales. 
                 p Fueron influenciados por los #[i millennials].
             hr
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
         p Los actuales consumidores 4.0 surgen a partir de la evolución que ha vivido la humanidad debido a los cambios tecnológicos, al estar los consumidores conectados constantemente a un dispositivo móvil, a los computadores, tabletas y otros dispositivos, están en constante consumo de información y publicidad de diferentes productos y servicios.
-        p Sin embargo, antes de crear estrategias de #[i marketing] que permitan atraer a clientes potenciales, se deben identificar sus necesidades y cómo los productos o servicios que ofrece la organización pueden satisfacerlas sus necesidades y cumplir sus expectativas, por ende es necesario, tener una comunicación activa con el consumidor, así como realizar una investigación de mercado.
+        p Sin embargo, antes de crear estrategias de #[i marketing] que permitan atraer a clientes potenciales, se deben identificar sus necesidades y cómo los productos o servicios que ofrece la organización pueden satisfacer sus necesidades y cumplir sus expectativas, por ende es necesario, tener una comunicación activa con el consumidor, así como realizar una investigación de mercado.
         p Para atraer al consumidor 4.0 se debe emplear algunas estrategias como:
     
     .row.justify-content-center.align-items-center.mb-5
@@ -288,7 +288,7 @@
             .icono  
               img(src="@/assets/curso/temas/tema1/flecha.svg", alt="Imagen decorativa")
             h4.mb-3 #[i E-commerce]
-            p.mb-0 Las organizaciones que impulsan sus productos o servicios, a través de #[i e-commerce], deben tener en cuenta los comentarios y reseñas, de los usuarios en cuanto a su experiencia. Sin embargo, se debe tener en cuenta los puntos de venta físicos; como se indica, los consumidores digitales emplean el consumo #[i online] y #[i offline], por lo cual se debe medir el número de visitas a las tiendas físicas.
+            p.mb-0 Las organizaciones que impulsan sus productos o servicios, a través de #[i e-commerce], deben tener en cuenta los comentarios y reseñas de los usuarios en cuanto a su experiencia. Sin embargo, se debe tener en cuenta los puntos de venta físicos; como se indica, los consumidores digitales emplean el consumo #[i online] y #[i offline], por lo cual se debe medir el número de visitas a las tiendas físicas.
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -351,12 +351,18 @@
           .tarjeta.colorcol1.w-100
             .p-4
               h3.text-center Métrica digital
-              p Mide la interacción de los consumidores, respecto a una marca en los medios digitales; se mide el número de productos o servicios que es adquirido #[i online], cuántos suscriptores o seguidores tiene la marca, las búsqueda realizadas de la marca en la #[i web].
+              p Mide la interacción de los consumidores, respecto a una marca en los medios digitales; se mide el número de productos o servicios que es adquirido #[i online], cuántos suscriptores o seguidores tiene la marca, las búsquedas realizadas de la marca en la #[i web].
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
         p Las organizaciones deben crear indicadores de medición de éxito, de acuerdo con sus necesidades, que permitan identificar el éxito de sus campañas de #[i marketing] digital o crear nuevas estrategias que le permitan llegar a los #[i leads] o clientes potenciales, configurando ventas efectivas y fidelización del consumidor.
         p Existen algunas métricas que permiten medir los resultados de las campañas publicitarias:
     
+    .row.justify-content-center.align-items-center
+      .col-lg-10.col-md-10.mb-4.mb-md-0(data-aos="flip-left")
+        .titulo-sexto.color-acento-contenido.offset-0
+          h5 Tabla 1.
+          span  #[i  Métricas campañas publicitarias]
+
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-left")
         .tabla-b.color-acento-botones.mb-5        
@@ -421,7 +427,7 @@
             :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img39.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Se puede definir el #[i marketing] como el conjunto de actividades y estrategias, que implementas las organizaciones, para crear y comunicar valor de marca, logrando la fidelización de los clientes, a partir del estudio y análisis de las necesidades y comportamiento de los clientes, como de los mercados. 
+            p.mb-0 Se puede definir el #[i marketing] como el conjunto de actividades y estrategias, que implementan las organizaciones, para crear y comunicar valor de marca, logrando la fidelización de los clientes, a partir del estudio y análisis de las necesidades y comportamiento de los clientes, como de los mercados. 
         p La palabra #[i marketing] es un término en inglés, que al traducir al idioma se traduce como mercadología, mercadeo o mercadotecnia. 
         p En cuanto a los principales objetivos del #[i marketing] se encuentran: 
     
@@ -563,7 +569,6 @@
               figure  
                 img(src='@/assets/curso/temas/tema1/img52.jpg', alt='Imagen decorativa')
             .col-lg-8
-              p En cada uno de los puntos indicar el ítem correspondiente a la imagen.
               ol.lista-ol--cuadro
                 li
                 .lista-ol--cuadro__vineta
@@ -587,7 +592,7 @@
                 | Métrica o análisis de la #[i web]. 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
-        p Con la implementación de los ecosistemas digitales, las organizaciones deben optimizar los recursos digitales, debido a que permiten que las estrategias y elementos del ecosistema sean eficientes y estén acorde a la organización, la marca y la creación de valor.
+        p Con la implementación de los ecosistemas digitales, las organizaciones deben optimizar los recursos digitales, debido a que permiten que las estrategias y elementos del ecosistema sean eficientes y estén acordes a la organización, la marca y la creación de valor.
         p Las siguientes son las estrategias para optimizar los recursos de un ecosistema digital.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.fondo-3.p-5(data-aos="flip-left")
@@ -608,7 +613,7 @@
           img(src='@/assets/curso/temas/tema1/img57.jpg', alt='En la figura 4 se muestra la búsqueda en Google de la marca Vélez, donde se ubica en la primera posición por medio de un anuncio.')
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
-        p Sin embargo, a introducir en el motor de búsqueda de Google la palabra “zapatos” se encuentra la empresa “Dafitti”.
+        p Sin embargo, a introducir en el motor de búsqueda de Google la palabra “zapatos” se encuentra la empresa “Dafiti”.
       
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
@@ -651,7 +656,7 @@
             img(src='@/assets/curso/temas/tema1/img62.jpg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
-        p Los medios de pago son otra herramienta que hacen parte de los ecosistemas digitales, estos nacen como una necesidad para realizar transacciones en el comercio electrónico; por consiguiente, surgen los métodos de pagos digitales. Dentro de este ecosistema de pago se deben identificar los actores que los involucran, tal como se detalla en las siguientes tarjetas.
+        p Los medios de pago son otra herramienta que hacen parte de los ecosistemas digitales, estos nacen como una necesidad para realizar transacciones en el comercio electrónico; por consiguiente, surgen los métodos de pagos digitales. Dentro de este ecosistema de pago se deben identificar los actores que los involucran, tal como se detalla a continuación.
     
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="flip-right")
       .tarjeta.colortarj-1.p-4
@@ -715,11 +720,7 @@
         p Todas estas estrategias de #[i marketing] digital deben estar soportadas por una infraestructura tecnológica, la cual permite generar nuevos negocios, los cuales han llegado gracias a internet y evolución de las nuevas tecnologías. 
         p La infraestructura tecnológica está compuesta por elementos como #[i hardware], #[i software], sistemas operativos, redes y almacenamiento de datos. La interacción y funcionamiento de estos elementos posibilitan la creación de nuevos negocios en línea.
         p Dentro de la infraestructura tecnológica se encuentra la infraestructura tradicional, infraestructura de nube, e infraestructura hiperconvergente, así:
-        
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12(data-aos="flip-right")
-        p La gestión de la infraestructura de las tecnologías permite organizar todos los recursos de los ecosistemas tecnológicos, mediante la gestión de los sistemas operativos, gestión de la nube, gestión de la virtualización, gestión de las interfaces de programación y gestión de riesgos.
-     
+
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4(data-aos="zoom-in-up")
         .tarjeta-avatar
@@ -818,14 +819,14 @@ export default {
       {
         titulo: '',
         texto:
-          '<b>Los <em>millennials</em> o generación Y:</b> es es la generación nacida en los años 1981 A a 1993, están marcados por la cúspide económica, con los inicios del bloque económico de la Unión Europea; pero se han visto enfrentados a una crisis social, debido a la baja oferta de empleo y disminución en los salarios. ',
+          '<b>Los <em>millennials</em> o generación Y:</b> es la generación nacida en los años 1981 a 1993, están marcados por la cúspide económica, con los inicios del bloque económico de la Unión Europea; pero se han visto enfrentados a una crisis social, debido a la baja oferta de empleo y disminución en los salarios. ',
         imagen: require('@/assets/curso/temas/tema1/img6.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: '',
         texto:
-          '<b>La generación Z:</b> son los nacidos en los años 1994 a 2010, marcados por el cambio del milenio, es la generación que le gusta la diversión y es su eje fundamental en la vida. Pasa la mayoría de su tiempo en las redes sociales y generando contenido para ellas, siendo este su mayor medio de información y entretenimiento;, en su adolescencia vivieron la crisis hipotecaria y financiera del 2008.',
+          '<b>La generación Z:</b> son los nacidos en los años 1994 a 2010, marcados por el cambio del milenio, es la generación que le gusta la diversión y es su eje fundamental en la vida. Pasa la mayoría de su tiempo en las redes sociales y generando contenido para ellas, siendo este su mayor medio de información y entretenimiento; en su adolescencia vivieron la crisis hipotecaria y financiera del 2008.',
         imagen: require('@/assets/curso/temas/tema1/img7.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
@@ -835,7 +836,7 @@ export default {
       {
         titulo: 'Procesos y procedimientos',
         texto:
-          'Al implementar procesos y procedimientos en cada una de las tareas dentro del ecosistema permite lograr la optimización de los recursos minimizando los riesgos asociados a las actividades u operaciones, debido a que, al encontrar un ecosistema parametrizado, las gestiones realizadas dentro de este son más eficientes.',
+          'Al implementar procesos y procedimientos en cada una de las tareas dentro del ecosistema, permite lograr la optimización de los recursos minimizando los riesgos asociados a las actividades u operaciones, debido a que, al encontrar un ecosistema parametrizado, las gestiones realizadas dentro de este son más eficientes.',
         icono: require('@/assets/curso/temas/tema1/img53.svg'),
       },
       {

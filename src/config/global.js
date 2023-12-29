@@ -57,7 +57,7 @@ export default {
           },
           {
             numero: '1.5',
-            titulo: '1.5	Ecosistemas digitales para el <em>marketing</em>',
+            titulo: 'Ecosistemas digitales para el <em>marketing</em>',
             hash: 't_1_5',
           },
         ],
@@ -203,7 +203,7 @@ export default {
     },
     {
       termino: 'Internet',
-      significado: 'red de computadores conectados a globalmente en red.',
+      significado: 'red de computadores conectados globalmente en red.',
     },
     {
       termino: 'Licencias',

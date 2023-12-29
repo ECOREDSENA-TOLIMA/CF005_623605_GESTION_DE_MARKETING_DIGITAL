@@ -71,6 +71,12 @@
       .col-lg-12(data-aos="flip-right")
         p El posicionamiento a través de la optimización en motores de búsqueda (SEO) tiene como objetivo lograr que las páginas #[i web] aparezcan en los primeros lugares de los resultados de búsqueda en Google. En esta estrategia, no se requiere el pago para el posicionamiento. Existen factores que determinan la ubicación de una página #[i web] en los primeros lugares, los cuales son:
     
+    
+    .row.justify-content-center.align-items-center
+      .col-lg-10.col-md-10.mb-4.mb-md-0(data-aos="flip-left")
+        .titulo-sexto.color-acento-contenido.offset-0
+          h5 Tabla 2.
+          span  #[i  Factores determinantes en la ubicación de una pagina web]
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10(data-aos="flip-left")
         .tabla-b.color-acento-botones.mb-5        
@@ -87,7 +93,7 @@
               td Se determina de acuerdo al número de visitas al sitio #[i web]. 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        p El posicionamiento a través de la estrategia de #[i marketing] en los motores de búsqueda (SEM), se centra en los anuncios pagados en los buscadores, en los cuales se deben de determinar parámetros claves de búsqueda, el buscador más popular de pago es Google Ads.
+        p El posicionamiento a través de la estrategia de #[i marketing] en los motores de búsqueda (SEM), se centra en los anuncios pagados en los buscadores, en los cuales se deben de determinar parámetros claves de búsqueda; el buscador más popular de pago es Google Ads.
     .row.justify-content-center.align-items-center.mb-5
       .cajon.color-secundario.p-4.mb-4(data-aos="flip-right")
         p Las principales diferencias entre las estrategias de posicionamiento de sitio #[i web] son: 
@@ -136,7 +142,7 @@
       h2.my-5 2.1 Tiendas virtuales
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
-        p En la actualidad las empresas y marcas físicas están migrando a tiendas online, y también han nacido muchos negocios en espacios #[i online] como tiendas virtuales; por lo cual una tienda virtual, es un sitio #[i web] que se ha diseñado para vender productos o servicios mediante el #[i e-commerce].
+        p En la actualidad las empresas y marcas físicas están migrando a tiendas #[i online], y también han nacido muchos negocios en espacios #[i online] como tiendas virtuales; por lo cual una tienda virtual, es un sitio #[i web] que se ha diseñado para vender productos o servicios mediante el #[i e-commerce].
         p Las tiendas virtuales se caracterizan por estar disponibles las 24 horas del día, permitiendo que los consumidores se conecten desde cualquier lugar. A continuación, se describen las características propias de estas.
     
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="flip-right")
@@ -211,7 +217,7 @@
               figure  
                 img(src='@/assets/curso/temas/tema2/img12.jpg', alt='Imagen decorativa')
             .col-lg-6
-              p El #[i marketing] de redes sociales de gran importancia debido a que: 
+              p El #[i marketing] de redes sociales es de gran importancia debido a que: 
               ul.lista-ul              
                 li 
                   i.fas.fa-circle.fa-xs(style="color:#627289")
@@ -506,7 +512,7 @@
                   | Elegir el #[i buyer] persona.
                 li.mb-0 
                   i.fas.fa-circle.fa-xs(style="color:#627289")
-                  | Seleccionar el tipo de pódcast (entrevista, informativo, historia etc.).
+                  | Seleccionar el tipo de pódcast (entrevista, informativo, historia, etc.).
                 li.mb-0 
                   i.fas.fa-circle.fa-xs(style="color:#627289")
                   | Nombrar el pódcast.
@@ -746,7 +752,7 @@ export default {
       {
         titulo: 'Mensaje',
         texto:
-          'Construcción de la historia o el mensaje a transmitir en tres etapas inicio, desarrollo y cierre.  ',
+          'Construcción de la historia o el mensaje a transmitir en tres etapas: inicio, desarrollo y cierre.  ',
         icono: require('@/assets/curso/temas/tema2/img33.svg'),
       },
       {
