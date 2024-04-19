@@ -28,7 +28,7 @@
           img(src='@/assets/curso/temas/tema1/img2_1.svg', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
-        p Para entender cómo se ha evolucionado en estos nuevos hábitos de consumo y en estos nuevos perfiles de consumidores, es necesario dar una mirada a la evolución de las generaciones, en el siguiente slider se detallan las características especiales de cada una de las generaciones activas a la fecha.
+        p Para entender cómo se ha evolucionado en estos nuevos hábitos de consumo y en estos nuevos perfiles de consumidores, es necesario dar una mirada a la evolución de las generaciones, a continuación, se detallan las características especiales de cada una de las generaciones activas a la fecha.
     
     SlyderB.slyder-b-img.mb-5.p-5(:datos="datosSlyderEjemplo")(data-aos="zoom-in-up")
 
@@ -598,8 +598,8 @@
         LineaTiempoB.color-secundario.mb-5(:datos="datosLineaTiempoB")
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-12(data-aos="zoom-in-up")
-        p Los parámetros son utilizados por programadores o sistemas operativos para asignar un valor a un comando específico. Cuando se recibe información, este comando ejecuta un procedimiento particular, similar a cuando realizas una búsqueda en Google introduciendo el nombre de una marca. Para que esa marca aparezca en las primeras páginas o sitios web, es fundamental parametrizarla o adquirir servicios que empleen estrategias de SEO (Search Engine Optimization) y SEM (Search Engine Marketing).
-        p Por ejemplo, el Servicio Nacional de Aprendizaje (SENA) de Colombia utiliza parámetros en su plataforma de formación en línea para personalizar el aprendizaje de cada persona. Estos parámetros pueden incluir el nivel de conocimiento del aprendiz, sus intereses y el progreso en los cursos. De esta manera, el SENA adapta el contenido y las actividades de aprendizaje para satisfacer las necesidades individuales de cada uno.
+        p Los parámetros son utilizados por programadores o sistemas operativos para asignar un valor a un comando específico. Cuando se recibe información, este comando ejecuta un procedimiento particular, similar a cuando se realiza una búsqueda en Google introduciendo el nombre de una marca. Para que esa marca aparezca en las primeras páginas o sitios web, es fundamental parametrizarla o adquirir servicios que empleen estrategias de SEO (Search Engine Optimization) y SEM (Search Engine Marketing).
+        p Por ejemplo, el Servicio Nacional de Aprendizaje SENA de Colombia utiliza parámetros en su plataforma de formación en línea para personalizar el aprendizaje de cada persona. Estos parámetros pueden incluir el nivel de conocimiento del aprendiz, sus intereses y el progreso en los cursos. De esta manera, el SENA adapta el contenido y las actividades de aprendizaje para satisfacer las necesidades individuales de cada uno.
         
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-12.col-md-4.mb-md-0(data-aos="flip-left")
@@ -613,7 +613,7 @@
           figcaption Nota. Tomado de Google. (2024).
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-12(data-aos="flip-right")
-        p Sin embargo, a introducir en el motor de búsqueda de Google la palabra “cursos” se encuentra la empresa “Domestika”.
+        p Sin embargo, al introducir en el motor de búsqueda de Google la palabra “cursos” se encuentra la empresa “Domestika”.
       
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-12.col-md-4.mb-md-0(data-aos="flip-left")
@@ -629,7 +629,7 @@
       .col-lg-12(data-aos="flip-right")
         p La parametrización, permite realizar una medición por lo cual, se emplean sitios que permitan realizar analítica como Google Analytics y Adobe Analytics.
         p Con la parametrización de campañas de #[i marketing] digital se encuentran algunos elementos clave que se deben identificar y que se ejemplifican a continuación:
-        p Para ilustrar cómo funcionan estos elementos en la práctica, consideremos una campaña de promoción de cursos en línea del Servicio Nacional de Aprendizaje (SENA). Supongamos que el SENA está llevando a cabo una campaña de #[em marketing] digital para promocionar sus nuevos cursos en línea. Al parametrizar sus enlaces de seguimiento, el SENA puede identificar y analizar el tráfico generado por diferentes fuentes, como anuncios en redes sociales, correos electrónicos promocionales o campañas de búsqueda en Google. Veamos cómo se aplican los elementos mencionados en este caso:
+        p Para ilustrar cómo funcionan estos elementos en la práctica, consideremos una campaña de promoción de cursos en línea del Servicio Nacional de Aprendizaje SENA. Supongamos que el SENA está llevando a cabo una campaña de #[em marketing] digital para promocionar sus nuevos cursos en línea. Al parametrizar sus enlaces de seguimiento, el SENA puede identificar y analizar el tráfico generado por diferentes fuentes, como anuncios en redes sociales, correos electrónicos promocionales o campañas de búsqueda en Google. Veamos cómo se aplican los elementos mencionados en este caso:
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Página <em>web</em>")
         .col-md-12.mb-4.mb-md-0.p-4
