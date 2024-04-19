@@ -533,7 +533,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
         p Las #[i apps] son programas diseñados para los dispositivos móviles, como celulares y tabletas, por lo general se conocen como aplicaciones. Son diseñadas por las empresas para difundir noticias, juegos, redes sociales, mensajería, entretenimiento, educación, estilo de vida, entre muchas otras categorías. 
-        p Los principales sistemas empleados para descargar estas aplicaciones son Google Play y App Stores de iPhone; algunas de estas aplicaciones son gratuitas, otras gratuitas con compras en la app y otras se deben comprar para ser descargadas.
+        p Los principales sistemas empleados para descargar estas aplicaciones son Google Play y App Store de iPhone; algunas de estas aplicaciones son gratuitas, otras gratuitas con compras en la app y otras se deben comprar para ser descargadas.
     .cajon.color-secundario.p-4.mb-4
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8(data-aos="flip-right")

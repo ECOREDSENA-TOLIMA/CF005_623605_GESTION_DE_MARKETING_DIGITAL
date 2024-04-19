@@ -462,17 +462,16 @@
             figure
               img(src='@/assets/curso/temas/tema1/img44.svg', alt='Imagen decorativa')        
         p.text-center Posicionamiento de marca.
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-2
       .col-lg-12(data-aos="flip-right")
         p Al iniciar los estudios de las necesidades de las personas y sus deseos a satisfacer, se debe realizar la segmentación del mercado e identificar el nicho de mercado.
         p La segmentación del mercado, permite agrupar los clientes potenciales en grupos de acuerdo a su ubicación geográfica, a la demografía (edad, sexo), por grupo socioeconómico (nivel de ingresos), según las características psicológicas, y comportamentales (beneficio del comprador, intención de compra); por su parte, el nicho de mercado se encuentra inmerso en cada segmento del mercado, mediante grupos más reducidos.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        .row.justify-content-center.align-items-center.mb-5
+        .row.justify-content-center.align-items-center.mb-2
           .col-lg-7(data-aos="flip-right")
             p En cuanto a la historia y evolución del #[i marketing], el profesor E. D. Jones, en el año 1902 habla por primera vez del término #[i marketing] en la universidad de Michigan, también en el año 1922 Fred E. Clarck, el presidente de la #[i American Marketing Association] (A.M.A.), escribe sobre los principios del #[i marketing], por lo cual es considerado como uno de los padres del #[i marketing]. 
             p Por su parte el docente universitario Phili Kother, es considerado el padre del #[i marketing] moderno, debido a sus aportes al #[i marketing] y al ser reconocido por su asesoría en empresas como IBM y #[i Bank of America]. Con Phili Kother las empresas empiezan a hablar de las 4 P del #[i marketing] (producto, precio, plaza y promoción).
-
           .col-lg-3
             figure
               img(src='@/assets/curso/temas/tema1/img45.svg', alt='Imagen decorativa') 
@@ -597,63 +596,65 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.fondo-3.p-5(data-aos="flip-left")
         LineaTiempoB.color-secundario.mb-5(:datos="datosLineaTiempoB")
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-12(data-aos="zoom-in-up")
-        p Un parámetro es utilizado por programadores o sistemas operativos para asignar un valor a un comando. Al recibir información, este comando ejecuta un procedimiento específico, como cuando se realiza una búsqueda en Google al introducir el nombre de una marca. Para que esta marca aparezca en las primeras páginas o sitios #[i web], es necesario parametrizarla o adquirir servicios que utilicen estrategias de SEO (#[i Search Engine Optimization]) y SEM (#[i Search Engine Marketing]).
-        p Por ejemplo, al buscar la marca de zapatos “Vélez” en el buscador de Google, esta aparece como el primer sitio #[i web], y si se observa fue parametrizada como una página de Anuncio. 
+        p Los parámetros son utilizados por programadores o sistemas operativos para asignar un valor a un comando específico. Cuando se recibe información, este comando ejecuta un procedimiento particular, similar a cuando realizas una búsqueda en Google introduciendo el nombre de una marca. Para que esa marca aparezca en las primeras páginas o sitios web, es fundamental parametrizarla o adquirir servicios que empleen estrategias de SEO (Search Engine Optimization) y SEM (Search Engine Marketing).
+        p Por ejemplo, el Servicio Nacional de Aprendizaje (SENA) de Colombia utiliza parámetros en su plataforma de formación en línea para personalizar el aprendizaje de cada persona. Estos parámetros pueden incluir el nivel de conocimiento del aprendiz, sus intereses y el progreso en los cursos. De esta manera, el SENA adapta el contenido y las actividades de aprendizaje para satisfacer las necesidades individuales de cada uno.
         
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
+    .row.justify-content-center.align-items-center.mb-2
+      .col-lg-12.col-md-4.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-0
           h5 Figura 4.
-          span  #[i Parametrización “Vélez”]
+          span  #[i Parametrización “Servicio Nacional de Aprendizaje”]
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="zoom-in-up")
         figure  
-          img(src='@/assets/curso/temas/tema1/img57.jpg', alt='En la figura 4 se muestra la búsqueda en Google de la marca Vélez, donde se ubica en la primera posición por medio de un anuncio.')
-    .row.justify-content-center.align-items-center.mb-5
+          img(src='@/assets/curso/temas/tema1/img57.png', alt='En la figura 4 se muestra la parametrización que tiene el SENA, cuando se busca en Google.')
+          figcaption Nota. Tomado de Google. (2024).
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-12(data-aos="flip-right")
-        p Sin embargo, a introducir en el motor de búsqueda de Google la palabra “zapatos” se encuentra la empresa “Dafiti”.
+        p Sin embargo, a introducir en el motor de búsqueda de Google la palabra “cursos” se encuentra la empresa “Domestika”.
       
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12.col-md-4.mb-4.mb-md-0(data-aos="flip-left")
+    .row.justify-content-center.align-items-center.mb-2
+      .col-lg-12.col-md-4.mb-md-0(data-aos="flip-left")
         .titulo-sexto.color-acento-contenido.offset-0
           h5 Figura 5.
-          span  #[i Parametrización “Zapatos”.]
+          span  #[i Parametrización “Cursos”]
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="zoom-in-up")
         figure  
-          img(src='@/assets/curso/temas/tema1/img58.jpg', alt='En la figura 5 se muestra la búsqueda en Google de la palabra zapatos, donde se ubica en la primera posición la empresa Dafitti.')
+          img(src='@/assets/curso/temas/tema1/img58.png', alt='En la figura 5 se muestra la búsqueda en Google de la palabra cursos, donde se ubica en la primera posición la empresa Domestika.')
+          figcaption Nota. Tomado de Google. (2024).
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
         p La parametrización, permite realizar una medición por lo cual, se emplean sitios que permitan realizar analítica como Google Analytics y Adobe Analytics.
-        p Con la parametrización de campañas de #[i marketing] digital se encuentran algunos elementos clave que se deben identificar y que  se ejemplifican con los siguientes pasos.
-    
+        p Con la parametrización de campañas de #[i marketing] digital se encuentran algunos elementos clave que se deben identificar y que se ejemplifican a continuación:
+        p Para ilustrar cómo funcionan estos elementos en la práctica, consideremos una campaña de promoción de cursos en línea del Servicio Nacional de Aprendizaje (SENA). Supongamos que el SENA está llevando a cabo una campaña de #[em marketing] digital para promocionar sus nuevos cursos en línea. Al parametrizar sus enlaces de seguimiento, el SENA puede identificar y analizar el tráfico generado por diferentes fuentes, como anuncios en redes sociales, correos electrónicos promocionales o campañas de búsqueda en Google. Veamos cómo se aplican los elementos mencionados en este caso:
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Página <em>web</em>")
         .col-md-12.mb-4.mb-md-0.p-4
-          p Al realizar la búsqueda de la página #[i web] de Vélez se encuentra la siguiente URL https://www.velez.com.co/?gclid=Cj0KCQjwl92XBhC7ARIsAHLl9alIsB_XUYK23Q1hzN4vHIL965lGBabfEgsfY4VPz4-y7m0MA4a0YekaAvjEEALw_wcB, la cual tiene la siguiente estructura.
+          p Cuando los usuarios buscan la página web del SENA, ingresan su URL principal en el navegador, como www.sena.edu.co.
         .col-md-12
           figure
-            img(src='@/assets/curso/temas/tema1/img59.jpg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema1/img59.png', alt='Imagen decorativa')
       .row(titulo="Dominio")
         .col-md-12.mb-4.mb-md-0.p-4
-          p El cual se asemeja a una dirección o código postal; el cual no se encuentra físico, este se encuentra alojado en la #[i web], el dominio principal de la marca Vélez es https://www.velez.com.co
+          p El dominio del SENA es sena.edu.co, que es su dirección en línea única y distintiva.
         .col-md-12
           figure
-            img(src='@/assets/curso/temas/tema1/img60.jpg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema1/img60.png', alt='Imagen decorativa')
       .row(titulo="Separador de dominio")
         .col-md-12.mb-4.mb-md-0.p-4
-          p Es el comando encargado de separar los parámetros del dominio principal; principalmente se identifica por estar representado por el signo de interrogación (?); el separador de parámetro para la marca Vélez se encuentra terminado el dominio principal, como se observa en la URL “?gclid=Cj0KCQjwl92XBhC7ARIsAHLl9alIsB_XUYK23Q1hzN4vHIL965lGBabfEgsfY4VPz4-y7m0MA4a0YekaAvjEEALw_wcB
+          p Cuando la empresa crea enlaces parametrizados para sus diferentes campañas de #[em marketing], utiliza el signo de interrogación (?) como separador de parámetros después del dominio principal. Por ejemplo, www.sena.edu.co?utm_source=facebook indica que el parámetro de origen de tráfico es Facebook.
         .col-md-12
           figure
-            img(src='@/assets/curso/temas/tema1/img61.jpg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema1/img61.png', alt='Imagen decorativa')
       .row(titulo="Parámetro detector")
         .col-md-12.mb-4.mb-md-0.p-4
-          p Es el que permite realizar análisis de tráfico de los sitios #[i Web], debido a que es único en cada URL, el parámetro detector de la marca Vélez se encuentra seguido del separador de dominio. “gclid=Cj0KCQjwl92XBhC7ARIsAHLl9alIsB_XUYK23Q1hzN4vHIL965lGBabfEgsfY4VPz4-y7m0MA4a0YekaAvjEEALw_wcB”
+          p El parámetro detector, en este caso utm_source=facebook, permite al SENA rastrear y analizar el tráfico generado por su campaña en Facebook. Cada enlace parametrizado tiene un parámetro detector único que identifica la fuente de tráfico específica.
         .col-md-12
           figure
-            img(src='@/assets/curso/temas/tema1/img62.jpg', alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema1/img62.png', alt='Imagen decorativa')
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12(data-aos="flip-right")
         p Los medios de pago son otra herramienta que hacen parte de los ecosistemas digitales, estos nacen como una necesidad para realizar transacciones en el comercio electrónico; por consiguiente, surgen los métodos de pagos digitales. Dentro de este ecosistema de pago se deben identificar los actores que los involucran, tal como se detalla a continuación.
